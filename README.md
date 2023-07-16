@@ -7,6 +7,7 @@
  </p>
  <p align="center">
   View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+   View <a href="https://user-images.githubusercontent.com/90236635/178144287-2d0c35f4-0b40-4b2c-bdfe-d874777eb87b.png">Live demo</a>.
  </p>
 
 ## Setup
